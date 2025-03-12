@@ -1,6 +1,3 @@
-# credit_card_fraud_detection
-
-
 # Credit Card Fraud Detection
 
 This repository contains an end-to-end machine learning solution for the [Credit Card Fraud Detection challenge](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) provided by Kaggle. The goal is to accurately identify fraudulent credit card transactions.
