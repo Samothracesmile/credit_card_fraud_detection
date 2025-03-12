@@ -1,0 +1,11 @@
+# Ignore folders
+# folder_to_ignore/
+# another_folder/
+
+# Ignore specific files
+creditcard.csv
+# *.log
+
+# Ignore all files of a specific type (e.g., Python cache)
+# __pycache__/
+# *.pyc
