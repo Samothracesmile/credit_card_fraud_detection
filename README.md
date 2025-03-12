@@ -41,6 +41,7 @@ credit_card_fraud_detection/
 ├── requirements.txt
 └── README.md
 ```
+<!--
 
 ## Installation
 
@@ -67,3 +68,5 @@ The trained model provides detailed metrics for evaluating performance in distin
 ## Contribution
 
 Feel free to fork, open issues, and contribute improvements through pull requests.
+
+-->
